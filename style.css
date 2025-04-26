@@ -1,0 +1,44 @@
+header h1 {
+    color: blue;
+    text-align: center;
+}
+
+p {
+    text-align: left;
+    color: yellow;
+}
+
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrx5JlZ1iB5YLfKu9nntOPj6PFXI2zo4u6vQ&s");
+    padding: 0px;
+    margin: 0px;
+}
+
+footer h2 {
+    color: white;
+}
+
+main {
+    background-color: white;
+}
+
+main p {
+    color: black;
+}
+
+table {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxB-wZpNU57wcRuKwzmPoGQo_w3szXHv5enA&s")
+}
+
+nav a {
+    color: white;
+    border-radius: 3px;
+    background-color: blue;
+    margin: 10px;
+    padding: 3px;
+    
+}
+
+header h2 {
+    color: white
+}
