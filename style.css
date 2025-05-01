@@ -42,3 +42,10 @@ nav a {
 header h2 {
     color: white
 }
+.divider1{margin:10px;
+    padding:3px;background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI4AFJd-uh8QtfLaL0MCR2ymXfDRfhwqq7hA&s);
+}
+.divider1 h2{text-align:center;}
+.budgettable{background-color:yellow;}\
+.toptable1{background-color:green;}
+.toptable2{background-color:green;}
