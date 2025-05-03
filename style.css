@@ -22,8 +22,7 @@ footer h2 {
     color: white;
 }
 
-main {
-}
+main {}
 
 main p {
     color: black;
@@ -64,12 +63,24 @@ header h2 {
     border-collapse: collapse;
 }
 
+table {
+    border-collapse: collapse;
+}
 
 .cputable {
-    background-color: blue
+    background-color: blue;
+    border: 3px solid black;
+}
+
+.cputable td {
+    border: 3px solid black;
 }
 
 .ssdtable {
     background-color: gray;
 }
-h3{color:white;text-align:center;}
+
+h3 {
+    color: white;
+    text-align: center;
+}
