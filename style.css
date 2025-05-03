@@ -8,6 +8,10 @@ p {
     color: yellow;
 }
 
+table {
+    text-align: center;
+}
+
 body {
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrx5JlZ1iB5YLfKu9nntOPj6PFXI2zo4u6vQ&s");
     padding: 0px;
@@ -19,16 +23,12 @@ footer h2 {
 }
 
 main {
-    background-color: white;
 }
 
 main p {
     color: black;
 }
 
-table {
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxB-wZpNU57wcRuKwzmPoGQo_w3szXHv5enA&s")
-}
 
 nav a {
     color: white;
@@ -36,18 +36,40 @@ nav a {
     background-color: blue;
     margin: 10px;
     padding: 3px;
-    
+    text-decoration: none;
+
 }
 
 header h2 {
     color: white
 }
-.divider1{margin:10px;
-    padding:3px;background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI4AFJd-uh8QtfLaL0MCR2ymXfDRfhwqq7hA&s);
+
+.divider1 {
+    margin: 10px;
+    padding: 3px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI4AFJd-uh8QtfLaL0MCR2ymXfDRfhwqq7hA&s);
 }
-.divider1 h2{text-align:center;}
-.budgettable{background-color:yellow;}\
-.toptable1{background-color:green;}
-.toptable2{background-color:green;}
-.cputable{background-color:blue}
-.ssdtable{background-color:gray;}
+
+.divider1 h2 {
+    text-align: center;
+}
+
+.budgettable {
+    background-color: yellow;
+}
+
+
+.toptable {
+    background-color: green;
+    border-collapse: collapse;
+}
+
+
+.cputable {
+    background-color: blue
+}
+
+.ssdtable {
+    background-color: gray;
+}
+h3{color:white;}
